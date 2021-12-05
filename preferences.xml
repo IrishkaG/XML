@@ -1,7 +1,14 @@
-<About my preferences> 
- <favorite movie>Dune</favorite movie>
- <favorite TV series>Sex and the City</favorite TV series>
- <favorite food>chicken</favorite food>
- <favorite season>summer</favorite season>
- <favorite cantry>France</favorite cantry>
-</About my preferences> 
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<name>
+<first>Irina</first>
+<last>Goncharuk</last>
+</name>
+<description>About my preferences.
+<message1>My favorite movie is Dune.</message1> 
+<message2>My favorite TV series is Sex and the City.</message2>
+<message3>My favorite food is chicken.</message3>
+<message4>My favorite season is summer.</message4>
+<message5>France is the country were i am going to</message5>
+</description>
+</root>

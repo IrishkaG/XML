@@ -1,10 +1,14 @@
-<?xml version="1.0"?>
-<About myself>
-  <name>Iryna</name>
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<name>Iryna Goncharuk</name>
+<About>About myself
   <mail>Femail</mail>
   <age>48</age>
-  <quantaty of pets>2</quantaty of pets>
-  <name>Uma</name>
-  <name>Quentin</name>
+</About>
+<pets>About pets
+  <quantaty_p> 2</quantaty_p>
+  <name_p>Uma</name_p>
+  <name_p>Quentin</name_p>
   <breed>Maine Coon</breed>
-</About myself>
+</pets>
+</root>
