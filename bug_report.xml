@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+-<root>
+  <id> ID <number>125</number></id>
+<sum>Sumary<text>The amount of sort product specified in the sidebar is diferent from the proposed on the page</text></sum>
+  <doctype>Type report<type>Bug</type></doctype>
+<status>Status<tipe_st>Opened</tipe_st></status>
+<priority>Priority<tipe_pr>Trivial</tipe_pr></priority>
+  <resolution>Resolution<tipe_r>Unresolved</tipe_r></resolution>
+<description>Description
+<param>Preconditions
+  <text>Launch Google Chrom</text>
+  <text>Go to https://rozetka.com.ua<text>
+ </param>
+<param>Steps to reproduce
+<text>Press the <Каталог> button.</text>
+<text>Select category <Ноутбуки и компьютеры></text> 
+<text>click on link <Ноутбуки> or click on picture above link.</text>
+<text>choose in the sidebar <Huawai (12)</text>
+ </param>
+<param>Actual result</param>
+<text>the page with 11 offers  of the Huawai laptop open.</text>
+<param>Attachments</param><text>""</text>
+<param>Expected result</param> 
+  <text>the page with 12 offers  of the Huawai laptop opens.</text>
+  </description>
+  </root>
